@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @Yui-MHCP001
+- 👋 Hi, I’m @SleepyYui
 - 👀 I’m interested in Computer Science
-- 🌱 I’m currently learning Python and Java
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning Java and C#
+- 📫 How to reach me: Dm me on Twitter: @_yui_qwq  or Discord: Yui#9097
 
 <!---
 Yui-MHCP001/Yui-MHCP001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
