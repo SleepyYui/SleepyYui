@@ -15,7 +15,7 @@
 
 - 👨‍💻 All of my projects are available at [GitHub](GitHub.com/SleepyYui)
 
-- 💬 Ask me about **JavaScript** and **Python**
+- 💬 Ask me about **JavaScript** and **Python** (Nothing else because I will most probably give wrong answers)
 
 - 📫 How to reach me **contact@sleepyyui.com**
 
