@@ -9,7 +9,7 @@
 
 <h1 align="center">I'm Yui</h1>
 
-<h3 align="center">A incompetent front and backend coder from Austria</h3>
+<h3 align="center">An incompetent front and backend coder from Austria</h3>
 
 - 🌱 I’m currently learning **C#** and **lua**
 
