@@ -11,7 +11,7 @@
 
 <h3 align="center">An incompetent front and backend coder from Austria</h3>
 
-- 🌱 I’m currently learning **C#** and **lua**
+- 🌱 I’m currently learning **Haskell** and **lua**
 
 - 👨‍💻 All of my projects are available at [GitHub](GitHub.com/SleepyYui)
 
