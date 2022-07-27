@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning **Haskell** and **lua**
 
-- 👨‍💻 All of my projects are available at [GitHub](GitHub.com/SleepyYui)
+- 👨‍💻 All of my projects are available at [GitHub](https://www.github.com/SleepyYui)
 
 - 💬 Ask me about **JavaScript** and **Python** (Nothing else because I will most probably give wrong answers)
 
