@@ -11,17 +11,15 @@
 
 <h3 align="center">An incompetent front and backend coder from Austria</h3>
 
-- 🌱 I’m currently learning **Haskell** and **lua**
+- 🌱 I’m currently learning **Haskell** and **Lua**
 
-- 👨‍💻 All of my projects are available at [GitHub](https://www.github.com/SleepyYui)
+- 👨‍💻 All of my public projects are available on [GitHub](https://www.github.com/SleepyYui)
 
-- 💬 Ask me about **JavaScript** and **Python** (Nothing else because I will most probably give wrong answers)
-
-- 📫 How to reach me **contact@sleepyyui.com**
+- 📫 Contact me on **contact@sleepyyui.com**
 
 - ⚡ Fun fact **I think I'm funny, but actually, I am not**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Socials:</h3>
 
 <p align="left">
 
