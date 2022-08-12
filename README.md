@@ -27,7 +27,7 @@
 
 <a href="https://stackoverflow.com/users/19497251" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="19497251" height="30" width="40" /></a>
 
-<a href="https://discord.gg/profile/443769343138856961" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Yui#9097" height="30" width="40" /></a>
+<a href="https://discord.gg/users/443769343138856961" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Yui#9097" height="30" width="40" /></a>
 
 </p>
 
