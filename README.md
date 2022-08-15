@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my public projects are available on [GitHub](https://www.github.com/SleepyYui)
 
-- 📫 Contact me on **contact@sleepyyui.com**
+- 📫 Contact me on **dev@sleepyyui.com**
 
 - ⚡ Fun fact **I think I'm funny, but actually, I am not**
 
