@@ -9,8 +9,6 @@
 
 <h1 align="center">I'm Yui</h1>
 
-<h3 align="center">An incompetent front and backend coder from Austria</h3>
-
 - 🌱 I’m currently learning **Haskell** and **Lua**
 
 - 👨‍💻 All of my public projects are available on [GitHub](https://www.github.com/SleepyYui)
