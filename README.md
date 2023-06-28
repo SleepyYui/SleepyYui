@@ -30,7 +30,3 @@
 </p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sleepyyui&theme=algolia&show_icons=true&locale=en&layout=compact" alt="sleepyyui" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sleepyyui&theme=algolia&" alt="sleepyyui" /></p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=sleepyyui&theme=algolia&show_icons=true&count_private=false" alt="sleepyyui" /></p>
