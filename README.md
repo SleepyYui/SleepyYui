@@ -21,7 +21,7 @@
 
 <p align="left">
 
-<a href="https://twitter.com/_yui_qwq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_yui_qwq" height="30" width="40" /></a>
+<a href="https://twitter.com/sleepy_yui_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sleepy_yui_" height="30" width="40" /></a>
 
 <a href="https://stackoverflow.com/users/19497251" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="19497251" height="30" width="40" /></a>
 
