@@ -1,12 +1,3 @@
-
-
-
-
-
-
-
-
-
 <h1 align="center">I'm Yui</h1>
 
 - 🌱 I’m currently learning **Haskell** and **Lua**
