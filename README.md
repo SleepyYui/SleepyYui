@@ -1,10 +1,10 @@
 <h1 align="center">I'm Yui</h1>
 
-- 🌱 I’m currently learning **Haskell** and **Lua**
+- 🌱 I’m currently mainly working on AI
 
-- 👨‍💻 All of my public projects are available on [GitHub](https://www.github.com/SleepyYui)
+- 👨‍💻 All of my public projects are available on [GitHub](https://www.github.com/SleepyYui) and [Huggingface](https://huggingface.co/SleepyYui)
 
-- 📫 Contact me on **dev@sleepyyui.com**
+- 📫 Contact me => **dev@sleepyyui.com**
 
 - ⚡ Fun fact **I think I'm funny, but actually, I am not**
 
@@ -13,11 +13,11 @@
 <p align="left">
 
 <a href="https://twitter.com/sleepy_yui_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sleepy_yui_" height="30" width="40" /></a>
-
 <a href="https://stackoverflow.com/users/19497251" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="19497251" height="30" width="40" /></a>
-
 <a href="https://discord.com/users/443769343138856961" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Yui#9097" height="30" width="40" /></a>
 
 </p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sleepyyui&theme=algolia&show_icons=true&locale=en&layout=compact" alt="sleepyyui" /></p>
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/L3L6MPAYU)
